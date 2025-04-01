@@ -32,7 +32,9 @@ JSON Structured Output
 
 Running Code
 
-- [https://machinelearning.apple.com/research/codeact](https://machinelearning.apple.com/research/codeact)
+- https://github.com/xingyaoww/code-act
+- https://www.youtube.com/watch?v=n5K2fjlT0FQ
+- https://machinelearning.apple.com/research/codeact
 - https://x.com/peakji/status/1899005201778086166
 - https://gist.github.com/renschni/4fbc70b31bad8dd57f3370239dccd58f
 - https://github.com/langchain-ai/langgraph-codeact/tree/harrison/some-changes
